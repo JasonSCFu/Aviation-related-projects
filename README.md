@@ -1,7 +1,4 @@
-
-(https://github.com/[JasonSCFu]/[Aviation-related-projects]/blob/[main]/aviation.jpg?raw=true)
-
-/Aviation-related-project/images/electrocat.png
+/Aviation-related-project/Misc/aviation.jpg
 
 
 # Aviation related projects
