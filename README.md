@@ -1,4 +1,4 @@
-/Aviation-related-project/Misc/aviation.jpg
+![this is image]/(/Aviation-related-project/Misc/aviation.jpg)
 
 
 # Aviation related projects
