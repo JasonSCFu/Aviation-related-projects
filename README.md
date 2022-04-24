@@ -1,4 +1,4 @@
-![this is image]/(/Misc/aircraft-queue-1024x608.png)
+![This is an image](https://www.pdc.com/wp-content/uploads/2019/04/aircraft-queue-1024x608.png)
 
 
 # Aviation related projects
