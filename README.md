@@ -1,4 +1,4 @@
-![this is image]/(https://github.com/JasonSCFu/Aviation-related-projects/blob/main/Misc/aviation.jpg)
+![this is image]/(/Misc/aviation.jpg)
 
 
 # Aviation related projects
